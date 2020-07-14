@@ -6,4 +6,4 @@ La idea es revisar performance de Pycaret en una instancia de AWS
 
 # Revisar
 
-La referencia sobre el uso de modelos de clasificación está (acá)[https://pycaret.org/classification/]
+La referencia sobre el uso de modelos de clasificación está [acá](https://pycaret.org/classification/)
